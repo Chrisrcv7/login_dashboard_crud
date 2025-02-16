@@ -22,12 +22,12 @@
             <form class="login-form validate-form" id="formLogin" action="" method="post">
                 <span class="login-form-title">LOGIN</span>
                 
-                <div class="wrap-input100" data-validate = "Usuario incorrecto">
+                <div class="wrap-input100" data-validate = "Usuario Incorrecto">
                     <input class="input100" type="text" id="usuario" name="usuario" placeholder="Usuario">
                     <span class="focus-efecto"></span>
                 </div>
                 
-                <div class="wrap-input100" data-validate="Password incorrecto">
+                <div class="wrap-input100" data-validate="Password Incorrecto">
                     <input class="input100" type="password" id="password" name="password" placeholder="Password">
                     <span class="focus-efecto"></span>
                 </div>
